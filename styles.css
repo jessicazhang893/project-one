@@ -1,0 +1,18 @@
+.collapsible-left {
+    margin-left: 20px;
+    font-size: 15px;
+    color: dimgray;
+    }
+.collapsible-center {
+    margin-left: 420px;
+    font-size: 15px;
+    color: dimgray;
+    }
+.collapsible-right {
+    margin-left: 820px;
+    font-size: 15px;
+    color: dimgray;
+    }
+summary {
+    font-size: 15px;
+    }
